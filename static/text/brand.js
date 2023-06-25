@@ -1,5 +1,5 @@
 const brand = {
-  saas2: {
+  sth_docs: {
     name: 'Documentations',
     desc: 'SmartHoldem Platform Documentations',
     prefix: 'sth',
