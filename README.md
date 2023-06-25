@@ -1,2 +1,4 @@
-# sth-docs
-UI for SmartHoldem Platform documentations
+# UI Engine for SmartHoldem Platform documentations
+
+vue + nuxt
+
